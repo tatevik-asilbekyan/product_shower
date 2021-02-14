@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ic_add" type="drawable">@drawable/ic_add_24dp</item>
+    <item name="ic_chat_bubble" type="drawable">@drawable/ic_chat_bubble_outline_24dp</item>
+    <item name="ic_camera" type="drawable">@drawable/ic_photo_camera_black_24dp</item>
+    <item name="ic_eye" type="drawable">@drawable/ic_remove_red_eye_24dp</item>
+    <item name="ic_more" type="drawable">@drawable/ic_more_horiz_24dp</item>
+    <item name="ic_edit_profile" type="drawable">@drawable/ic_person_black_24dp</item>
+    <item name="ic_empty" type="drawable">@drawable/ic_order</item>
+    <item name="bg_circle" type="drawable">@drawable/circle</item>
+    <item name="bg_circle_bordered" type="drawable">@drawable/circle_bordered_2dp</item>
+</resources>

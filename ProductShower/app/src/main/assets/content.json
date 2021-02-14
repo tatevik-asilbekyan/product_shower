@@ -1,0 +1,118 @@
+{
+  "content" : [
+    {
+      "name" : "Food",
+      "icon" : "http://icons.iconarchive.com/icons/webalys/kameleon.pics/512/Food-Dome-icon.png",
+      "products": [
+        {
+          "name" : "Shrimp",
+          "icon" : "https://image.flaticon.com/icons/png/512/1332/1332384.png"
+        },
+        {
+          "name" : "Pizza",
+          "icon" : "https://image.flaticon.com/icons/png/512/1161/1161623.png"
+        },
+        {
+          "name" : "Burger",
+          "icon" : "https://image.flaticon.com/icons/png/512/1822/1822139.png"
+        },
+        {
+          "name" : "Donut",
+          "icon" : "https://image.flaticon.com/icons/png/512/214/214298.png"
+        },
+        {
+          "name" : "Beaf",
+          "icon" : "https://image.flaticon.com/icons/png/512/1652/1652459.png"
+        }
+      ],
+      "subCategories" : [
+        {
+          "name" : "SeaFood",
+          "icon" : "https://image.flaticon.com/icons/png/512/1772/1772575.png"
+        },
+        {
+          "name" : "FastFood",
+          "icon" : "https://image.flaticon.com/icons/png/512/1772/1772587.png"
+        },
+        {
+          "name" : "Sweets",
+          "icon" : "https://image.flaticon.com/icons/png/512/1772/1772591.png"
+        },
+        {
+          "name" : "Meat",
+          "icon" : "https://image.flaticon.com/icons/png/512/1772/1772603.png"
+        }
+      ]
+    },
+    {
+      "name" : "Accessories",
+      "thumb" : "",
+      "products": [],
+      "subCategories" : []
+    },
+    {
+      "name" : "Clothing",
+      "icon" : "http://chittagongit.com/images/clothing-icon/clothing-icon-2.jpg",
+      "products": [
+        {
+          "name" : "Polo RL",
+          "icon" : "https://image.flaticon.com/icons/png/512/1694/1694998.png"
+        },
+        {
+          "name" : "Boss Blue Suit",
+          "icon" : "https://image.flaticon.com/icons/png/512/1763/1763464.png"
+        },
+        {
+          "name" : "CK Brown Loaf",
+          "icon" : "https://image.flaticon.com/icons/png/512/1615/1615324.png"
+        }
+      ]
+    },
+    {
+      "name" : "Car",
+      "icon" : "https://cdn1.iconfinder.com/data/icons/transport-flat-2/128/74-512.png",
+      "subCategories" : [
+        {
+          "name" : "Mercedes Benz",
+          "icon" : "https://www.kennedymb.com/wp-content/uploads/sites/677/2018/11/cropped-mercedes-benz-icon.png",
+          "subCategories" : [
+            {
+              "name" : "Sedan",
+              "icon" : "https://image.flaticon.com/icons/png/512/683/683081.png"
+            },
+            {
+              "name" : "SUV",
+              "icon" : "https://image.flaticon.com/icons/png/512/333/333585.png"
+            },
+            {
+              "name" : "Crossover",
+              "icon" : "https://image.flaticon.com/icons/png/512/1085/1085926.png"
+            }
+          ]
+        },
+        {
+          "name" : "Audi",
+          "icon" : "https://freepngimg.com/thumb/car%20logo/28-audi-car-logo-png-brand-image.png",
+          "subCategories" : [
+            {
+              "name" : "Sedan",
+              "icon" : "https://image.flaticon.com/icons/png/512/683/683081.png"
+            },
+            {
+              "name" : "SUV",
+              "icon" : "https://image.flaticon.com/icons/png/512/333/333585.png"
+            },
+            {
+              "name" : "Hatchback",
+              "icon" : "https://image.flaticon.com/icons/png/512/1615/1615119.png"
+            }
+          ]
+        },
+        {
+          "name" : "BMW",
+          "icon" : "https://cdn0.iconfinder.com/data/icons/car-brands/550/BMW_logo-512.png"
+        }
+      ]
+    }
+  ]
+}

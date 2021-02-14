@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Product Shower</string>
+    <string name="categories">Categories</string>
+    <string name="subcategories">SubCategories</string>
+    <string name="products">Products</string>
+    <string name="no_elements">SubCategory doesn\'t contain any element</string>
+    <string name="add_bio">Add bio</string>
+    <string name="bio_desc">Add a short bio to tell people more about \n yourself.</string>
+    <string name="simple_name">John Wick</string>
+    <string name="add_to_story">Add to Story</string>
+    <string name="view_as">View as</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="more">More</string>
+    <string name="no_categories">There are no any categories yet</string>
+    <string name="no_subcategories">There are no any subcategories yet</string>
+    <string name="no_products">There are no any products yet</string>
+    <string name="profile">Profile</string>
+</resources>
